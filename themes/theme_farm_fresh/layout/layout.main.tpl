@@ -1,5 +1,5 @@
 <!-- BEGIN: main -->
-
+{FILE "header_only.tpl"}
 <body class="page page-id-1361 page-template-default yith-wcan-free page-home-5 wpb-js-composer js-comp-ver-4.12 vc_responsive" cz-shortcut-listen="true">
     <div id="yith-wcwl-popup-message" style="display: none;">
         <div id="yith-wcwl-message"></div>
